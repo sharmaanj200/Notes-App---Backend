@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Do something title",
+        "content": "Do something nice for someone I care about"
+    },
+    {
+        "title": "Test note",
+        "content": "Memorize the fifty states and their capitals"
+    },
+    {
+        "title": "Movies title",
+        "content": "Watch a classic movie"
+    },
+    {
+        "title": "Open source projects",
+        "content": "Contribute code or a monetary donation to an open-source software project"
+    },
+    {
+        "title": "Brain exercises title",
+        "content": "Solve a Rubik's cube"
+    },
+    {
+        "title": "Cooking",
+        "content": "Bake pastries for me and neighbor"
+    },
+    {
+        "title": "Action",
+        "content": "Go see a Broadway production"
+    },
+    {
+        "title": "Writing skills",
+        "content": "Write a thank you letter to an influential person in my life"
+    },
+    {
+        "title": "Party title",
+        "content": "Invite some friends over for a game night"
+    }
+]
